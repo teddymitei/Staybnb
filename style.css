@@ -418,3 +418,8 @@ nav .fa-bars{
 nav.navbar-white .fa-bars{
     color: #000;
 }
+
+.navbar-white .active::after{
+    background: #ff5361;
+    
+}
