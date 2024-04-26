@@ -694,3 +694,7 @@ nav.navbar-white .fa-bars{
     border-radius: 8px;
     font-size: 16px;
 }
+
+.guest-field{
+    flex: 1;
+}
