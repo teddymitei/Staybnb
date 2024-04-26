@@ -594,3 +594,16 @@ nav.navbar-white .fa-bars{
         font-size: 12px;
     }
 }
+
+/* ----------- House Details Page -------- */
+.house-details{
+    padding: 0 12%;
+}
+
+.house-title{
+    margin-top: 50px;
+}
+
+.house-title h1{
+    font-weight: 600;
+}
