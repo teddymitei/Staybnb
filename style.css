@@ -498,3 +498,7 @@ nav.navbar-white .fa-bars{
     padding: 10px 30px;
     margin-top: 30px;
 }
+
+.sidebar h2{
+    font-weight: 500;
+}
