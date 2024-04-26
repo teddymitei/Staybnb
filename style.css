@@ -623,3 +623,14 @@ nav.navbar-white .fa-bars{
     color: #ff5361;
     font-size: 14px;
 }
+
+.gallery{
+    display: grid;
+    grid-gap: 10px;
+}
+
+.gallery div img{
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
